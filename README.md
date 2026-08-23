@@ -6,7 +6,7 @@ DXF files carry no coordinate reference system and usually mix points, lines and
 
 ## Team
 
-Mberede Benedict, Mary Muthee, Meenu Anil
+Mary Muthee, Mberede Benedict, Meenu Anil
 
 ## Features
 
@@ -54,6 +54,4 @@ Mberede Benedict, Mary Muthee, Meenu Anil
 
 Please use the [Issues tab](https://github.com/marymuthee/dxf2gis/issues) on this repository.
 
-## License
 
-Add your chosen license here.
