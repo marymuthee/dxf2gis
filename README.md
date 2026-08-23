@@ -4,9 +4,6 @@ A QGIS plugin that converts DXF CAD drawings into clean GIS data. It splits a dr
 
 DXF files carry no coordinate reference system and usually mix points, lines and polygons together on the same CAD layer, which makes bringing survey and engineering drawings into a GIS a slow, manual process. DXF2GIS automates that conversion. It runs entirely on libraries bundled with QGIS, so it needs no extra installation and works the same on Windows, Linux and macOS.
 
-## Team
-
-Mary Muthee, Mberede Benedict, Meenu Anil
 
 ## Features
 
