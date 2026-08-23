@@ -1,0 +1,20 @@
+[general]
+name=DXF2GIS
+qgisMinimumVersion=3.28
+description=Converts DXF CAD drawings into GeoPackage, Shapefile or GeoJSON point/line/polygon layers
+version=0.1
+author=Mary Muthee,Mberede Benedict, Meenu Anil
+email=queenwangari.m@gmail.com
+
+about=Splits a DXF drawing into clean point, line and polygon GIS layers, lets the user assign a CRS, and exports to GeoPackage, Shapefile or GeoJSON. Runs entirely on libraries bundled with QGIS.
+
+tracker=https://github.com/marymuthee/dxf2gis/issues
+repository=https://github.com/marymuthee/dxf2gis
+
+hasProcessingProvider=yes
+tags=dxf,cad,gis,conversion,processing,survey
+category=Vector
+
+icon=icon.png
+experimental=True
+deprecated=False
